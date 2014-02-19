@@ -3,8 +3,6 @@
 namespace My;
 
 use Doctrine\ORM\Mapping as ORM;
-
-use Gedmo\Blameable\Traits\BlameableEntity;
 use Gedmo\Mapping\Annotation as Gedmo;
 
 /**
