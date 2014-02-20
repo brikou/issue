@@ -2,7 +2,7 @@
 
 namespace My;
 
-use Doctrine\DBAL\Migrations\AbstractMigration,
+use Doctrine\DBAL\Migrations\AbstractMigration;
 use Doctrine\DBAL\Schema\Schema;
 
 class Issue1794 extends AbstractMigration
